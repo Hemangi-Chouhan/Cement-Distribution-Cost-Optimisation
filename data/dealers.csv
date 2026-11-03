@@ -1,0 +1,11 @@
+dealer_id,dealer_name,city,latitude,longitude,demand_tonnes
+D1,Delhi Dealer,Delhi,28.6139,77.2090,4500
+D2,Lucknow Dealer,Lucknow,26.8467,80.9462,3000
+D3,Bhopal Dealer,Bhopal,23.2599,77.4126,2500
+D4,Indore Dealer,Indore,22.7196,75.8577,2500
+D5,Mumbai Dealer,Mumbai,19.0760,72.8777,5000
+D6,Pune Dealer,Pune,18.5204,73.8567,3500
+D7,Surat Dealer,Surat,21.1702,72.8311,2500
+D8,Hyderabad Dealer,Hyderabad,17.3850,78.4867,4000
+D9,Bengaluru Dealer,Bengaluru,12.9716,77.5946,4000
+D10,Chennai Dealer,Chennai,13.0827,80.2707,3500

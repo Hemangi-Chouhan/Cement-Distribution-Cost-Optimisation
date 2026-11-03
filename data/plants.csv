@@ -1,0 +1,4 @@
+plant_id,plant_name,city,latitude,longitude,capacity_tonnes
+P1,North Plant,Jaipur,26.9124,75.7873,15000
+P2,West Plant,Ahmedabad,23.0225,72.5714,10000
+P3,Central Plant,Nagpur,21.1458,79.0882,13000
