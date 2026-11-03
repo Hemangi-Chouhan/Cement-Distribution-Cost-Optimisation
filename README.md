@@ -42,6 +42,14 @@ The program prints the baseline and optimized costs and savings. It creates:
 - `outputs/summary.json` — cost and volume comparison
 - `outputs/routes_map.html` — interactive map of optimized routes
 
+## Sample output
+
+The sample dataset produces an estimated baseline transport cost of **₹80,824,500** and an optimized cost of **₹67,384,500**, for estimated savings of **₹13,440,000 (16.63%)**. These are illustrative results based on the assumptions above, not verified business savings.
+
+The screenshot below shows the generated optimized routes on the interactive Folium map:
+
+![Screenshot of the optimized cement distribution routes on the Folium map](docs/images/optimized-routes-map.png)
+
 Open `outputs/routes_map.html` in a browser to explore the optimized routes. To skip map generation, run:
 
 ```powershell
